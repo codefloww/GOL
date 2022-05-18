@@ -7,7 +7,7 @@ git-clone https://github.com/codefloww/GOL.git
 ```
 and then run this code for installing package(from cloned directory)
 ```python
-pip3 install .
+python3 -m pip3 install .
 ```
 ## Running a game
 After running [main.py](gol/main.py) or importing [Game](gol/main.py) class and then Game.run()  
